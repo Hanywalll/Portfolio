@@ -1,0 +1,3 @@
+tolong sekarang bantu saya konversi menu kontak.php dan send_contact.php 
+yang masih murni dikonversi / sesuaikan ke laravel, controler,models,route,view, 
+dan ingat jangan ubah ui ataupun logic code nya kamu cukup sesuikan ke bentuk laravel saja, 
